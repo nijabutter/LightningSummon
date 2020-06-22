@@ -1,0 +1,16 @@
+name: LightningSummon
+version: 1.0
+author: nijabutter
+main: nijabutter.LightningSummon
+
+commands:
+  lsa:
+    description: Requst to teleport to the specified player
+    usage: /lsa <player>
+  lsaccept:
+    description: Accept any teleport requests
+  lsdeny:
+    description: Decline any teleport requests
+  lsahere:
+    description: Request for the specififed player to teleport to you
+    usage: /lsahere <player>
